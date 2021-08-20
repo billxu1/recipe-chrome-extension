@@ -1,6 +1,16 @@
 {
-    "name": "Recipe story skipper",
+    "name": "Recipe Story Skipper",
     "description": "Skips the recipes story and goes straight to the recipe",
     "version": "1.0",
-    "manifest_version": 3
+    "manifest_version": 3,
+    "background" : {
+        "service_worker": "background.js"
+    },
+    "permissions": ["storage", "tabs", "activeTab", "scripting"],
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "host_permissions": [
+        "<all_urls>"
+    ]
 }
