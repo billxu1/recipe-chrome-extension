@@ -13,4 +13,4 @@ Chrome browser
 ## Installation:
 ![image](https://user-images.githubusercontent.com/69961188/130247196-5b3d507a-5b7b-42fa-9b43-999c0edce963.png)
 <br>
-Download the files and load it here from your extentions
+Download the files and select the file
