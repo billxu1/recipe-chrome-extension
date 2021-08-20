@@ -1,0 +1,6 @@
+{
+    "name": "Recipe story skipper",
+    "description": "Skips the recipes story and goes straight to the recipe",
+    "version": "1.0",
+    "manifest_version": 3
+}
