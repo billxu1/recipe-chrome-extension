@@ -11,4 +11,5 @@ There is more room for extention for it to work on multiple websites, but every 
 Chrome browser
 
 ## Installation:
-Download the files 
+Download the files and load it here from your extentions
+![image](https://user-images.githubusercontent.com/69961188/130247196-5b3d507a-5b7b-42fa-9b43-999c0edce963.png)
